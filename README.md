@@ -161,6 +161,5 @@ curl -X POST http://localhost:8080/api/products/createAlert \
 
 Name: **Zepoh**
 
-LinkedIn: [My Linkedin profile](https://www.linkedin.com/in/your-profile)
 
 ---
